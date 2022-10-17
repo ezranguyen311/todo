@@ -1,0 +1,9 @@
+1. Build job search React project
+2. Build e-commerce HTML CSS project
+3. Learn CSS Cascade
+4. Learn React useState, useEffect, useLayoutEffect
+5. Writing cover letter and resume based on recommended checklist
+6. Search jobs based on keywords:
+	- junior front-end/react developer
+	- fresher front-end/react developer
+	- html css job
