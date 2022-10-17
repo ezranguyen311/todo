@@ -8,3 +8,4 @@
 	- fresher front-end/react developer
 	- html css job
 7. Listing favourite tech companies
+8. Preparing CSS, Javascript, ReactJS, behavorial, and common interview questions
